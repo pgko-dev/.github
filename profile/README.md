@@ -1,7 +1,5 @@
 # [pgko](https://pgko.dev/)
 
-A platform for sharing [UMIGURI](https://umgr.inonote.jp/en/) rhythm-game chart.
+A platform for sharing [UMIGURI](https://umgr.inonote.jp/en/) rhythm-game charts.
 
-- [Web](https://github.com/pgko-dev/web): React frontend.
-- [Shared](https://github.com/pgko-dev/shared): Shared packages.
-- [Worker](https://github.com/pgko-dev/worker): Cloudflare Worker for Discord crawler previews.
+[pgko](https://github.com/pgko-dev/pgko) contains the React frontend, API reference, Cloudflare Worker, and shared packages.
