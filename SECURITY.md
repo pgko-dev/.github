@@ -1,5 +1,11 @@
 # Reporting vulnerabilities
 
-Use **Security → Report a vulnerability** in the affected public repository to contact the maintainers privately.
+In the affected public repository, use **Security → Report a vulnerability** to contact the maintainers privately.
 
-Include the affected version or commit, reproduction steps, and the impact. Keep exploit details out of public issues while the report is being investigated.
+Include:
+
+- The affected commit or release.
+- Reproduction steps and a minimal example.
+- The impact and any relevant logs, with credentials and personal data removed.
+
+Keep exploit details out of public issues while the report is being investigated.
